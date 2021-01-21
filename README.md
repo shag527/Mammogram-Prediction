@@ -2,7 +2,9 @@
 
 
 ### Predicting whether a mammogram mass is benign or malignant
-We have used the "mammographic masses" public dataset from the UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
+We have used the "mammographic masses" public dataset from the UCI repository. 
+
+(source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
 
 This data contains 961 instances of masses detected in mammograms, and contains the following attributes:
 
